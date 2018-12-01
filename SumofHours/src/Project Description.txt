@@ -1,0 +1,12 @@
+sumofHours package allow user to enter series of hours and display the result sum of hours.
+Written in Java by Harsh Chokshi
+References
+Youtube, Software Stack Exchange and Java API
+Technology used to build up the application:
+import java.util packages and java.text packages
+apply array of object oriented concept
+Incorportated usage of arraylist, Date class, SimpleDateFormat class and Exception
+The output of program is OUTPUT1.jpg and OUTPUT2.jpg
+Licence open source for educational purpose.
+Application requirements
+User must enter a series of value in specific format such as HH:MM:SS
